@@ -1,12 +1,11 @@
-# csv-dashboard
-Simple app using express and react which converts csv data into table format 
+# Jwt-Auth
+Simple app using express and react which uses jwt for login. 
 
-Live here: https://csv-dashboard-react.netlify.com/
+Live here: https://5edf9be560f91aaad1be1722--tender-hermann-628c7d.netlify.app
 
 # Features
-A user interface that allows a user upload a csv file and convert that data into a table.
-The user is able to filter the data by pincode and date.
-
+A user interface that allows a user to signin and signup.
+ 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
